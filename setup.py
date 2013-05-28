@@ -10,7 +10,7 @@ setup(
     name='Gears',
     version='0.5.1',
     license='ISC',
-    description='Compiles and concatenates JavaScript and CSS assets.',
+    description='Compiles and concatenates JavaScript and CSS assets',
     long_description=read('README.rst'),
     url='https://github.com/gears/gears',
     author='Mike Yumatov',
